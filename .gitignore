@@ -21,6 +21,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.codemap
 MANIFEST
 
 # Virtual Environment
@@ -76,7 +77,6 @@ Build/
 BUILD/
 
 # LibTorch
-libtorch/
 libtorch-*.zip
 
 # MPI
